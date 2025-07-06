@@ -1,11 +1,10 @@
-Hi there 👋
-I'm Bravo Gabriel Martin!
+Hola! 👋
+Soy Bravo Gabriel Martin!
 
-- 🔭 I’m currently unemployed.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with developing my own games.
-- 💬 Ask me about my favorite games.
-- 📫 How to reach me: gabrielbrv8@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Nothing to add.
+- 🔭 Soy estudiante
+- 🌱 Estoy aprendiendo Python
+- 👯 Me gustaria colaborar en proyectos
+- 🤔 Estoy buscando desarrollar mis propios juegos
+- 📫 Contacto: gabrielbrv8@gmail.com
+
+
